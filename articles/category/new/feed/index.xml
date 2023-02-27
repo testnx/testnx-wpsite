@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>New &#8211; Welcome to TestNX</title>
+	<atom:link href="http://192.168.31.11/articles/category/new/feed?simply_static_page=45" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A new way for software testing</description>
+	<lastBuildDate>Thu, 23 Feb 2023 06:13:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/01/cropped-icon-robot-32x32.png</url>
+	<title>New &#8211; Welcome to TestNX</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Implementing Method Chaining with a Page Object Model</title>
+		<link>/articles/implementing-method-chaining-with-a-page-object-model</link>
+		
+		<dc:creator><![CDATA[TestNX]]></dc:creator>
+		<pubDate>Sun, 29 Jan 2023 07:22:04 +0000</pubDate>
+				<category><![CDATA[New]]></category>
+		<guid isPermaLink="false">/?p=19</guid>
+
+					<description><![CDATA[Page Object Model Design Pattern When creating a test automation framework using the Page Object Model design pattern and Selenium, a useful feature to add is Method Chaining (also known as Fluid Syntax) to make your test steps more readable and therefore maintainable. So instead of your test code using a LoginPage object like this: [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

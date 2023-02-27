@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Setup &#8211; Welcome to TestNX</title>
+	<atom:link href="http://192.168.31.11/articles/category/setup/feed?simply_static_page=47" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A new way for software testing</description>
+	<lastBuildDate>Sat, 04 Feb 2023 10:17:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/01/cropped-icon-robot-32x32.png</url>
+	<title>Setup &#8211; Welcome to TestNX</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sharing data between SpecFlow classes using Context Injection</title>
+		<link>/articles/sharing-data-between-specflow-classes-using-context-injection</link>
+		
+		<dc:creator><![CDATA[TestNX]]></dc:creator>
+		<pubDate>Sun, 29 Jan 2023 07:20:06 +0000</pubDate>
+				<category><![CDATA[Setup]]></category>
+		<guid isPermaLink="false">/?p=17</guid>
+
+					<description><![CDATA[Sharing data between step definition methods within the same class is pretty straightforward in SpecFlow – you can simply create and use a class variable – but how do we share data between steps in different classes? In the past this was done using Scenario Context and Feature Context, however these are now outdated (and [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>5 Testing Newsletters You Should Follow</title>
+		<link>/articles/5-testing-newsletters-you-should-follow</link>
+		
+		<dc:creator><![CDATA[TestNX]]></dc:creator>
+		<pubDate>Sun, 29 Jan 2023 07:17:53 +0000</pubDate>
+				<category><![CDATA[Setup]]></category>
+		<guid isPermaLink="false">/?p=13</guid>
+
+					<description><![CDATA[Five for Friday Five for Friday&#160;is Alan Page’s (a.k.a. Angry Weasel, and you might also know him from the&#160;AB Testing podcast) selection of 5 weekly articles, published, you guessed it, each Friday. There is no email subscription at the moment, but you can find the article lists on his website, or you can subscribe to [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
